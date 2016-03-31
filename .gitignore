@@ -1,17 +1,16 @@
 ##########################
 # Unreal Generated Files #
 ##########################
-Build
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-BuildingEscape/Content/StarterContent/
+./Build
+./Binaries
+./DerivedDataCache
+./Intermediate
+./Saved
 
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
 
-Escape.opensdf
-Escape.sdf
+./Escape.opensdf
+./Escape.sdf
